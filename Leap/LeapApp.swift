@@ -1,10 +1,3 @@
-//
-//  LeapApp.swift
-//  Leap
-//
-//  Created by Jamie van Essen on 25/05/2023.
-//
-
 import SwiftUI
 
 @main

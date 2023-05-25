@@ -1,0 +1,7 @@
+# Userdata
+xcuserdata/
+
+# xCode builds
+*.ipa
+*.dSYM.zip
+*.dSYM
